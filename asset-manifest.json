@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/snapfood-homepage-React/static/css/main.1ac48127.css",
+    "main.js": "/snapfood-homepage-React/static/js/main.3dced4dc.js",
+    "static/media/1_jek_non_active.png": "/snapfood-homepage-React/static/media/1_jek_non_active.1ef7cbf9e40103e019cc.png",
+    "static/media/img_app_mockup@2x.png": "/snapfood-homepage-React/static/media/img_app_mockup@2x.bea730bc011f43efb404.png",
+    "static/media/website_image_pizza_1.jpg": "/snapfood-homepage-React/static/media/website_image_pizza_1.7c1515f2368c9b4c61cd.jpg",
+    "static/media/website_image_asian_1.jpg": "/snapfood-homepage-React/static/media/website_image_asian_1.597eeab1a72831004430.jpg",
+    "static/media/63948e7168d0f.jpeg": "/snapfood-homepage-React/static/media/63948e7168d0f.e830465b3c1bbe64f3c3.jpeg",
+    "index.html": "/snapfood-homepage-React/index.html",
+    "main.1ac48127.css.map": "/snapfood-homepage-React/static/css/main.1ac48127.css.map",
+    "main.3dced4dc.js.map": "/snapfood-homepage-React/static/js/main.3dced4dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac48127.css",
+    "static/js/main.3dced4dc.js"
+  ]
+}
