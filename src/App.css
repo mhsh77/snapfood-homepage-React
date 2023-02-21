@@ -759,8 +759,8 @@ video {
   width: 237px;
 }
 
-.w-\[333px\] {
-  width: 333px;
+.w-\[300px\] {
+  width: 300px;
 }
 
 .w-\[600px\] {
@@ -781,10 +781,6 @@ video {
 
 .w-screen {
   width: 100vw;
-}
-
-.w-\[300px\] {
-  width: 300px;
 }
 
 .min-w-\[100px\] {

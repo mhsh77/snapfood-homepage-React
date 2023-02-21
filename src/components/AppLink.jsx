@@ -4,7 +4,7 @@ function AppLink() {
   return (
     <div className='flex flex-row bg-gray-200 rounded-br-[100px] mt-44 max-h-[500px] justify-between' dir='rtl'>
         
-        <div className='flex flex-col pr-24 justify-center max-w-2xl'>
+        <div className='flex flex-col pr-24 justify-center max-w-2xl pb-4 md:pb-0'>
             <h1 className='font-bold text-gray-800 text-2xl py-7'>اپلیکیشن اسنپ‌فود</h1>
             <h1 className='text-sm text-gray-700 pb-12'>با اپلیکیشن اسنپ‌فود به راحتی و با چند کلیک ساده می‌توانید رستوران‌ها، کافه‌ها، شیرینی‌فروشی‌ها و سوپرمارکت‌های نزدیک خودتان را جست‌و‌جو کرده و از تجربه سفارش آسان از اسنپ‌فود لذت ببرید.</h1>
             <h1 className='text-xs'>برای دریافت لینک دانلود اپلیکیشن، شماره موبایلتان رو وارد کنید</h1>
@@ -17,7 +17,7 @@ function AppLink() {
             
         </div>
         <div>
-            <img src={require('../assets/img_app_mockup@2x.png')} alt="" className=' bottom-0 pl-10 w-[600px] mt-[-250px]' />
+            <img src={require('../assets/img_app_mockup@2x.png')} alt="" className=' bottom-0 pl-10 w-[600px] mt-[-250px] md:block hidden' />
         </div>
     </div>
   )
