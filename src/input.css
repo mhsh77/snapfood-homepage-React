@@ -1,3 +1,52 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.rec-dot{
+    display: none;
+}
+.rec.rec-arrow-right{
+    margin-left: -70px;
+    z-index: 99;
+}
+.rec.rec-arrow-left{
+    margin-right: -70px;
+    z-index: 99;
+}
+.rec.rec-arrow-left{
+    margin-left: -100px;
+}
+.rec.rec-arrow{
+    background: white;
+    color:blueviolet;
+    
+}
+.rec.rec-arrow:focus:enabled{
+    background: white;
+    color:blueviolet;
+}
+.rec.rec-arrow:disabled{
+    visibility: hidden;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100;300;400;500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+  }
+::-webkit-sc
+  /* Track */
+  ::-webkit-scrollbar-track {
+    display: none;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: gray; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b30000; 
+  }
